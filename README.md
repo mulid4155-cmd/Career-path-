@@ -13,3 +13,5 @@ Software engineering is the systematic, disciplined, and quantifiable approach t
 It combines statistics, computer science, and machine learning to analyze large datasets (Big Data), enabling data-driven decision-making, predictive modeling, and business optimization. 
 ## Cyber security 
 is the practice of protecting systems, networks, programs, and data from digital attacks, unauthorized access, and damage.
+## NB
+no collaboration 😢 
